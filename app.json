@@ -11,6 +11,10 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "config": {
+      "firebase": {
+      }
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -24,10 +28,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gigiti636.myapp",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b97c0c29-e93e-4ba4-8fde-54027e7d0c04"
+      }
     }
   }
 }

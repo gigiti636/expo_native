@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "238154327345",
+    "project_id": "native-test-395f2",
+    "storage_bucket": "native-test-395f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238154327345:android:5993f9d0d8058a65d1bc10",
+        "android_client_info": {
+          "package_name": "com.gigiti636.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238154327345-jmqscthsipfhj3vvs42c524dk6iipocj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaAkIRk-PzxTmSaJrmvCsInt3xTctIrKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238154327345-jmqscthsipfhj3vvs42c524dk6iipocj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238154327345-k2cqfift8edc6k6mp6ldo96ja4h9una9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NativeTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
